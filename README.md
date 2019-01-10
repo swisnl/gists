@@ -6,4 +6,4 @@ We collect our gists in this repository since organisational gists are not possi
 
 - [.editorconfig](editorconfig)
 - [.gitattributes](gitattributes)
-- [SwisDrupalValetDriver](SwisValetDrupalDriver.php)
+- [SwisDrupalValetDriver.php](SwisValetDrupalDriver)
